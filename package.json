@@ -45,7 +45,7 @@
     "intl-locales-supported": "^1.0.0",
     "jss": "^9.8.7",
     "lodash": "^4.17.11",
-    "next": "^8.0.1",
+    "next": "^9.3.2",
     "normalizr": "^3.3.0",
     "prop-types": "^15.7.2",
     "ramda": "^0.26.1",
